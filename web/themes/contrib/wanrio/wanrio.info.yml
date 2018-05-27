@@ -1,3 +1,4 @@
+
 name: Wanrio Bootstrap Barrio Subtheme
 type: theme
 description: 'Basic structure for a Bootstrap Barrio SubTheme.'
@@ -6,7 +7,7 @@ description: 'Basic structure for a Bootstrap Barrio SubTheme.'
 base theme: bootstrap_barrio
 
 libraries:
-  - bootstrap_barrio_subtheme/global-styling
+  - wanrio/global-styling
 
 regions:
   top_header: 'Top Header'
