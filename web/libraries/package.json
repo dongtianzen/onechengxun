@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap-material-design": "^4.1.1",
+    "popper.js": "^1.14.3",
     "vue": "^2.5.16"
   },
   "devDependencies": {}

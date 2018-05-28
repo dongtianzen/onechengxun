@@ -3,11 +3,16 @@ global-styling:
     theme:
       css/style.css: {}
 
+popper.js:
+  js:
+    /libraries/node_modules/popper.js/dist/umd/popper.js: {}
+    js/test_controller.js: {}
+
 bootstrap-material-design:
   css:
     theme:
       /libraries/node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.css: {}
   js:
     /libraries/node_modules/bootstrap-material-design/dist/js/bootstrap-material-design.js: {}
-    js/daterangepicker_controller.js: {}
+    js/bootstrap_material_design_controller.js: {}
 

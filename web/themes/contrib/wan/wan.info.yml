@@ -21,3 +21,5 @@ regions:
 
 libraries:
   - 'wan/global-styling'
+  - 'wan/popper.js'
+  - 'wan/bootstrap-material-design'
